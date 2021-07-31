@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student-details>
+        <student>
+                <USN>MCA052</USN>
+                <name>madhurya</name>
+                <class>MCA</class>
+                <phone>9845464749</phone>
+                <college>RVCE</college>
+        </student>
+        <student>
+                <USN>MCA053</USN>
+                <name>sanmati</name>
+                <class>MCA</class>
+                <phone>9556783229</phone>
+                <college>RVCE</college>
+        </student>
+        <student>
+                <USN>MCA037</USN>
+                <name>Sahana</name>
+                <class>MCA</class>
+                <phone>9234567789</phone>
+                <college>RVCE</college>
+        </student>
+
+</student-details>
